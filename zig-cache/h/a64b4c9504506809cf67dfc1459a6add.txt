@@ -1,0 +1,1 @@
+19253 2814749767779509 1613494994000000000 4144e6bcf16c9e4e7c7d5db1e8732a94 C:\zig-windows-x86_64-0.8.0-dev.876+95e66a915\lib\zig\libc\mingw\lib-common\advapi32.def.in

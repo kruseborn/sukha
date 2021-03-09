@@ -1,0 +1,1 @@
+19726 2814749767779825 1613494994000000000 eec5ca0fab34675b48bfc856c62e3285 C:\zig-windows-x86_64-0.8.0-dev.876+95e66a915\lib\zig\libc\mingw\lib-common\gdi32.def
